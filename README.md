@@ -8,11 +8,11 @@ This is a cross-platform, Singapore-contextualized speech recognition applicatio
 Currently modelled according to the layout and inventory of Unpackt SG.
 
 ## Key Files
-screens/HomeScreen.js
-fetchData.js
-searchRanker.js
-searchMetrics.js
-dijkstraConvex.js
-polygonRasterizer.js
-screens/ResultsScreen.js
-screens/AccuracyCheck.js
+screens/HomeScreen.js  
+fetchData.js  
+searchRanker.js  
+searchMetrics.js  
+dijkstraConvex.js  
+polygonRasterizer.js  
+screens/ResultsScreen.js  
+screens/AccuracyCheck.js  
