@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "automatic-speech-recognition",
+    "description": "A Singapore-contextualized speech recognition app.",
+    "slug": "automatic-speech-recognition",
+    "privacy": "public",
+    "sdkVersion": "31.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "rsiapp",
+      "publishBundlePath": "ios/automatic-speech-recognition/Supporting/shell-app.bundle",
+      "publishManifestPath": "ios/automatic-speech-recognition/Supporting/shell-app-manifest.json"
+    },
+    "scheme": "expd52e1ce6d7904851bf8a416134081ee1",
+    "android": {
+      "package": "rsiapp.rsiapp",
+      "publishBundlePath": "android/app/src/main/assets/shell-app.bundle",
+      "publishManifestPath": "android/app/src/main/assets/shell-app-manifest.json"
+    }
+  }
+}
